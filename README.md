@@ -12,9 +12,9 @@ A collection of my favorite front-end Javascript libraries for creating interact
 
 This compilation contains three sets of sources in the *javascripts* directory. 
 
-# Each minified library source.
-# *frontend-all-min.js* contains all minified sources.
-# *frontend-cdn-min.js* contains all sources minus those hosted via Google's CDN.
+* Each minified library source.
+* *frontend-all-min.js* contains all minified sources.
+* *frontend-cdn-min.js* contains all sources minus those hosted via Google's CDN.
 
 If using Google's CDN, include the following script references:
 	
